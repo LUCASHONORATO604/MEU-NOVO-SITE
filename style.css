@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.headerprimeirapg {
+    display: flex;
+    justify-content: space-between;
+
+    height: 150px;
+    width: 100%;
+}
+
+.h1primeirapg {
+    color: white;
+    margin: 40px 0px 0px 80px;
+    font-size: 38px;
+    cursor: pointer;
+}
+
+.botaoprimeirapg {
+    height: 70px;
+    width: 200px;
+    font-size: 25px;
+    border-radius: 7px;
+    margin: 40px 150px 0px 0px;letter-spacing: 3px;
+}
+
+.mainprimeirapg {
+
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 50px;
+}
+
+.footerprimeirapg {
+
+
+    height: 350px;
+
+
+}
+
+.footerprimeirapg img {
+    height: 100px;
+    width: 100px;
+}
+
+.meurostoprimeirapg {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.pprimeirapg {
+    font-size: 28px;
+    width: 750px;
+    color: white;
+}
+
+.pzapprimeirapg {
+    font-size: 35px;
+    color: white;
+    margin: 10px 0px 0px 25px;
+    letter-spacing: 4px;
+
+}
